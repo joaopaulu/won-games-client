@@ -36,3 +36,5 @@ public/workbox-*.js
 # storybook
 storybook-static
 yarn.lock
+
+/.idea
